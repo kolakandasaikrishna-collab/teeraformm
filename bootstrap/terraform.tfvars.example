@@ -1,0 +1,6 @@
+org_id             = "123456789012"
+billing_account_id = "012345-6789AB-CDEF01"
+parent_folder_id   = null # or "folders/987654321098"
+default_region     = "us-central1"
+bootstrap_project_id = "lz-bootstrap-seed"
+state_bucket_prefix  = "tf-state-lz" 
